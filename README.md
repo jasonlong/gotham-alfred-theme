@@ -2,7 +2,7 @@
 
 If you use the [Gotham theme for Vim](https://github.com/whatyouhide/vim-gotham), you might like this Alfred theme.
 
-![](http://cl.ly/image/3y2I1B2z2A3Z/content)
+![](http://cl.ly/image/2O0J2H2W3I1x/content)
 
 Here's how it looks alongside the Vim theme.
 
