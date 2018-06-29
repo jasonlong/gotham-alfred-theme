@@ -1,8 +1,0 @@
-flow "ci-on-push" {
-  on = "push"
-  resolves = "ci"
-}
-
-task "ci" {
-  uses = "google-container-builder"
-}
